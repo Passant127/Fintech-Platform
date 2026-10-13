@@ -1,0 +1,5 @@
+dotnet new sln -n FintechPlatform => create new solution 
+dotnet new webapi -n Transaction.Api.
+dotnet sln add Transaction.Api.
+docker compose up -d
+http://localhost:15672 => rabbit mq

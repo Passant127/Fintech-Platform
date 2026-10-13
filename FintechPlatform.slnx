@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/Transaction.Api/">
+    <Project Path="Transaction.Api/Transaction.Api..csproj" />
+  </Folder>
+</Solution>
